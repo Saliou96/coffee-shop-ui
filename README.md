@@ -7,8 +7,8 @@ https://www.figma.com/design/wKQD6wqFRwFeOCSpFeoh4r/Coffee-Shop-Mobile-App-Desig
 ## Screenshot
 
 1. Display all coffee
-<img width="364/2" height="780/2" alt="image" src="https://github.com/user-attachments/assets/2c080c15-8412-49d5-99dd-ae78a6bcd23a" />
+<img width="182" height="390" alt="image" src="https://github.com/user-attachments/assets/2c080c15-8412-49d5-99dd-ae78a6bcd23a" />
 
 
 1. Display coffee with filter **Macchiato**
-<img width="358" height="779" alt="image" src="https://github.com/user-attachments/assets/4f5bc1e6-4266-48df-b3c5-581ade6d2d37" />
+<img width="182" height="390" alt="image" src="https://github.com/user-attachments/assets/4f5bc1e6-4266-48df-b3c5-581ade6d2d37" />
